@@ -1,0 +1,77 @@
+body{
+    background-color: rgb(29, 31, 35);
+}
+header{
+    height: 80px;
+    overflow: hidden;
+}
+a{
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    color: white;
+    padding: 8px 1px;
+    display: inline-block;
+}
+p{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.bar{
+    width: 20px;
+    padding: 0px 5px;
+}
+.navgroup{
+    display: flex;
+    float: inline-end;
+}
+.navgroup li{
+    list-style: none;
+    padding: 5px 10px;
+}
+.Sbtn{
+    padding: 8px 30px;
+    color: white;
+    background-color: rgb(0, 149, 255);
+    display: inline-block;
+    border-radius: 5px;
+}
+
+.google{
+    width: 280px;
+    height: auto;
+}
+.mide{
+    text-align: center;
+    padding: 50px 0px;
+}
+.inputfild{
+    margin: 20px 0px;
+    padding: 15px 200px;
+    border-radius: 30px;
+    border: 0.5px solid rgb(76, 75, 75);
+    background: inherit;
+    outline: none;
+    color: aliceblue;
+}
+.dbtn a{
+    display: inline-block;
+    padding: 5px 15px;
+    margin: 6px ;
+    background-color: rgb(46, 46, 46);
+    border-radius:6px;
+}
+.eng{
+    color: rgb(145, 169, 241);
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.icon img{
+    width: 30px;
+    position: relative;
+    bottom: 59px;
+    
+}
+.img1{
+    margin-right: 470px;
+}
